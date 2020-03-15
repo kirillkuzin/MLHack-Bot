@@ -1,0 +1,7 @@
+/voice
+/wav
+/__pycache__
+/.env
+/.idea
+
+.DS_Store
